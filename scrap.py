@@ -45,4 +45,3 @@ if soup.title != None:
             print ([stat.next.replace('\n', '').replace(' ', '') for stat in repoStat])
 else:
     print ('Username not found')    
-#social-count
